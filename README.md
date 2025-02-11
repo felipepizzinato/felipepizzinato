@@ -1,5 +1,5 @@
 ### Olá! Sou o Felipe Pizzinato 👋
 
-# Analsita de dados
+# 📊 Analista de dados 📊
 
-Me chamo Felipe Pizzinato, atualmente cursando análise e desenvolvimento de sistemas na FIAP. Apaixonado por tecnologia e dados.
+Me chamo Felipe Pizzinato, atualmente cursando análise e desenvolvimento de sistemas na FIAP. Apaixonado por tecnologia e dados. 🖥️
