@@ -2,7 +2,8 @@
 
 # 📊 Analista de dados 📊
 
-Me chamo Felipe Pizzinato, atualmente cursando análise e desenvolvimento de sistemas na FIAP. Apaixonado por tecnologia e dados. 🖥️
+Me chamo **Felipe Pizzinato** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas na FIAP**. Sou apaixonado por tecnologia, programação e tudo que envolve o mundo dos dados.  
+Gosto de explorar novas linguagens e ferramentas, sempre buscando aprender e evoluir profissionalmente. Além disso, estou constantemente me desafiando a desenvolver projetos práticos que possam transformar dados em insights valiosos.  
 
 ### 🚀 Tecnologias e Ferramentas  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
