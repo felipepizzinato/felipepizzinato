@@ -1,3 +1,5 @@
 ### Olá! Sou o Felipe Pizzinato 👋
 
-(www.linkedin.com/in/felipe-pizzinato-0b041930b)
+# Analsita de dados
+
+Me chamo Felipe Pizzinato, atualmente cursando análise e desenvolvimento de sistemas na FIAP. Apaixonado por tecnologia e dados.
