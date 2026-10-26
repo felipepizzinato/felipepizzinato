@@ -2,8 +2,9 @@
 
 # 📊 Analista de dados 📊
 
-Me chamo **Felipe Pizzinato** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas na FIAP**. Sou apaixonado por tecnologia, programação e tudo que envolve o mundo dos dados.  
-Gosto de explorar novas linguagens e ferramentas, sempre buscando aprender e evoluir profissionalmente. Além disso, estou constantemente me desafiando a desenvolver projetos práticos que possam transformar dados em insights valiosos.  
+Me chamo **Felipe Pizzinato**, sou formado em **Análise e Desenvolvimento de Sistemas** pela **FIAP** e atualmente curso **Engenharia de Software**. Atuo na área de Risco de Crédito, com foco em análise de dados, sistemas de decisão automatizada e soluções envolvendo Python, SQL e Databricks.
+
+Tenho grande interesse por Ciência de Dados, Machine Learning e Inteligência Artificial, e busco aprofundar meus conhecimentos por meio de projetos práticos, estudos e aplicações voltadas à resolução de problemas reais e geração de valor através dos dados.
 
 ### 🚀 Tecnologias e Ferramentas  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
